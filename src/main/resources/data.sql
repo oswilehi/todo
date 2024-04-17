@@ -1,0 +1,1 @@
+INSERT INTO to_do (description, status) VALUES ('need to do project', 'TODO');
